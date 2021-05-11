@@ -22,7 +22,7 @@
         android:background="@color/colorMistyRose"
         >
 
-        <!--
+        <!-- 오류나는 부분!!!!!!!! ㅠㅠㅠ 왜 나는거야..... 왜......
         <com.google.android.meterial.textfield.TextIntputLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -30,6 +30,7 @@
             android:layout_marginRight="20dp">
 
             원래는 이 태그가 두개로  각각 이메일/pw 입력 칸이 들어가야함 - 오류나서 주석처리함(21.05.09)
+            안드로이드 버전 찾아서 아래 태그 어떻게 사용해야하는지 확인해보기......!!!
             </com.google.android.meterial.textfield.TextIntputLayout>
         -->
 
